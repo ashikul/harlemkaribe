@@ -1,0 +1,45 @@
+/* your styles go here */
+#logo-text{
+     background: #ff4486;
+     color: white;
+     border-radius: 6px;
+     font-family: 'Arial', serif;
+     font-weight: 500;
+     padding: 0.25em 0.2em 0.25em 0.2em;
+     font-size: 1.55em;
+     letter-spacing: 0.05em;
+     bottom: 3em;
+     margin-top: -0.01em;
+ }
+
+#logo-text-small{
+    background: #ff4486;
+    color: #00b3ee;
+    border-radius: 6px;
+    font-family: 'Arial', serif;
+    font-weight: 400;
+    padding: 0.25em 0.2em 0.25em 0.2em;
+    font-size: 0.75em;
+    letter-spacing: 0.05em;
+    bottom: 3em;
+    margin-top: -0.22em;
+    margin-right: 3em;
+}
+
+.thirdslider {
+
+
+
+}
+
+#block-special-header{
+    /*font-family: "Helvetica Neue";*/
+    color: red;
+}
+
+#yelpreviews {
+    border: 1px solid #ccc;
+    background-color: #f9f2f4;
+    border-radius: 6px;
+
+}
