@@ -701,7 +701,7 @@ fieldset[disabled] .btn-template-transparent-black.active {
 .btn-template-primary.active,
 .open > .dropdown-toggle.btn-template-primary {
   color: #ffffff;
-  background-color: #b25894;
+  background-color: #e0e0e0;
   border-color: #af518f;
 }
 .btn-template-primary:active,
@@ -792,7 +792,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../images/slider-facial.jpg') center center repeat;
+  background: url('../images/AKRA.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1142,7 +1142,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../images/slider-massaage.jpg') center center repeat;
+  background: url('../images/AKRA.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1155,7 +1155,7 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: #222222;
-  opacity: 0.94;
+  opacity: 0.97;
   filter: alpha(opacity=10);
 }
 .home-carousel .owl-carousel {
@@ -3074,7 +3074,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #555555;
-  background-color: #e2c1d7;]
+  background-color: #e0e0e0;
 
 }
 .navbar-default .navbar-nav > .active > a,
@@ -3111,6 +3111,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+
     color: #555555;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
@@ -3143,6 +3144,8 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
   color: #555555;
+
+
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -3402,14 +3405,15 @@ p {
   color: #222222;
 }
 a.text-primary:hover {
-  color: #b25894;
+  color: #e0e0e0;
+
 }
 .bg-primary {
   color: #fff;
   background-color: #222222;
 }
 a.bg-primary:hover {
-  background-color: #b25894;
+  background-color: #e0e0e0;
 }
 abbr[title],
 abbr[data-original-title] {
