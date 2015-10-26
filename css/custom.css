@@ -96,3 +96,9 @@
     height:100%;
 }
 
+#yelpreviews {
+    border: 1px solid #ccc;
+    background-color: #f9f2f4;
+    border-radius: 6px;
+
+}
