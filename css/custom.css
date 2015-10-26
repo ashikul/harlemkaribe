@@ -48,3 +48,14 @@
     background: #A0D13E;
     color: black;
 }
+
+.videoblock {
+    background: cornflowerblue;
+    /*background-image: image("/images/coconut.jpg");*/
+}
+
+.videoblock video{
+    min-width: 100%;
+    min-height: 100%;
+    height: 300px;
+}
