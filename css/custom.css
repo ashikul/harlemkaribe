@@ -49,14 +49,38 @@
     color: black;
 }
 
-.videoblock {
-    background: cornflowerblue;
-    /*background-image: image("/images/coconut.jpg");*/
+.mainvideoblock {
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 75vh;
+    z-index: 0;
+}
+.mainvideoblock h1{
+    text-align: center;
+    font: 3em/1.4 helvetica neue, helvetica, arial, sans-serif;
+    font-family: FontAwesome;
+    /*color: #Cc9900;*/
+    color: black;
+    /*background-color:rgba(0,0,0,0.5);*/
+
+    background-color:rgba(65,183,216,0.99);
+    border-radius: 7px;
+    border: 2px solid black;
+    /*ackground-color:rgba(255, 255, 255, 0.5);*/
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
-.videoblock video{
-    height: 240px;
+.mainvideoblock video{
+    width: 100%    !important;
+    height: auto   !important;
+    z-index: -100;
 }
+
+
 
 .photos {
     /*background: skyblue;*/
