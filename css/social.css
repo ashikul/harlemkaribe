@@ -115,8 +115,8 @@
     overflow:hidden;
     margin:0; padding:0;
     list-style:none;
-    float: right;
-    text-align: right;
+    float: left;
+    text-align: left;
 }
 
 .soc2 li {
@@ -153,15 +153,16 @@
     display:block;
     position: relative;
     z-index: 1;
-    width: 44px;
-    height: 4px;
-    line-height: 22px;
-    font-size: 11px;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 33px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
     margin-right: 1px;
     color: #ffffff;
+
 }
 
 .soc2 a:hover {
@@ -169,35 +170,3 @@
 
 }
 
-.soc-icon-last{
-    margin:0 !important;
-}
-
-.soc-facebook {
-    background-color: #3e5b98;
-}
-.soc-facebook:before {
-    content:'b';
-}
-.soc-twitter {
-    background-color: #4da7de;
-}
-.soc-twitter:before {
-    content:'a';
-}
-.soc-yelp {
-    background-color: #c83218;
-}
-.soc-yelp:before {
-    content:'h';
-}
-
-.soc-facebook:hover {
-    background-color: #2a4784;
-}
-.soc-twitter:hover {
-    background-color: #3993ca;
-}
-.soc-yelp:hover {
-    background-color: #b41e04;
-}

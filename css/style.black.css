@@ -2527,10 +2527,10 @@ fieldset[disabled] .btn-template-primary.active {
   list-style: none;
 }
 #footer ul a {
-  color: #999999;
+  color: #ffffff;
 }
 #footer ul a:hover {
-  color: #41B7D8;
+  color: #ffffff;
   text-decoration: none;
 }
 #footer .photostream div {
@@ -2592,12 +2592,12 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #footer .social a {
-  color: #555555;
+  color: #ffffff;
   font-size: 25px;
   margin: 0 10px 0 0;
 }
 #footer .social a:hover {
-  color: #41B7D8;
+  color: #ffffff;
 }
 #copyright {
   background: #333;
